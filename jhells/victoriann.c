@@ -17,8 +17,7 @@ int main(void)
 
 	printf("what is your score \n" );
 	scanf("%d" , &score);
-
-	/* check if the score is between 80 - 100
+	0/* check if the score is between 80 - 100
 	 * then print the
 	 * grade if it is
 	 */
